@@ -3,6 +3,7 @@ A complete SIEM (Security Information and Event Management) solution leveraging 
 
 ## Overview
 This SIEM setup utilizes Splunk to ingest, parse, and analyze SSH logs (`auth.log`) for real-time threat detection and incident response. Designed within a controlled virtualized environment, the project replicates attacker-victim scenarios, enabling hands-on experience with log analysis, dashboards, and alerts.
+This is a child project of a previous project which can be found [here](https://github.com/Toast-stack/SSHLogAnalyzer), Please start with it instead of this project as it is more advanced than the prvious project.
 
 ## Environmental Details
 This project leverages a dual-VM setup to replicate an attacker-victim scenario, providing a practical and hands-on learning experience.
