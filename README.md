@@ -115,3 +115,6 @@ Configure alerts within Splunk for specific log events:
 
 ## **Acknowledgments**
 This project draws inspiration from real-world cybersecurity workflows and leverages Splunk as a learning tool for aspiring SOC Analysts and cybersecurity professionals.
+
+## License 
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
